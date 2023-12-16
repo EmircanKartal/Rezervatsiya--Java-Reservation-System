@@ -34,8 +34,9 @@ src\main\java\com\mycompany\rezervatsiyagithub: Initialization of login jForm.
 ## User Interaction
 - The reservation system provides a user-friendly interface that allows users to interactively make reservations. It includes functionalities such as selecting travel destinations, choosing dates, and specifying the number of passengers or seats required. The intuitive design ensures that users can easily navigate through the reservation process, providing a seamless and enjoyable experience.
 <div align="center">
-  <img src="https://github.com/EmircanKartal/Rezervatsiya--Java-Reservation-System/assets/88210656/98639111-b9df-442b-9ae9-18e37aa67ab0" alt="Customer Panel" width="450">
+  <img src="https://github.com/EmircanKartal/Rezervatsiya--Java-Reservation-System/assets/88210656/4344609c-bc97-4468-8278-3f92a0e33fc2" alt="Customer Panel" width="450">
 </div> 
+
 
 ## Data Handling
 - Reservation data is efficiently managed through real-time processing. As users input their reservation details, the system dynamically stores and processes this information. The data is organized and updated in the backend, ensuring accuracy and accessibility for subsequent actions, such as payment processing or ticket confirmation.
@@ -43,8 +44,8 @@ src\main\java\com\mycompany\rezervatsiyagithub: Initialization of login jForm.
 The system is structured with distinct panels tailored to different user roles:
 - **Customer Panel:** Customers can explore available reservations, select travel options, and proceed with booking tickets. The panel offers a user-friendly interface for a smooth reservation experience.
 <div align="center">
-  <img src="https://github.com/EmircanKartal/Rezervatsiya--Java-Reservation-System/assets/88210656/ec02d481-2177-455a-a339-ed6d6cf8c51a" alt="Customer Panel" width="550">
-  <img src="https://github.com/EmircanKartal/Rezervatsiya--Java-Reservation-System/assets/88210656/d6a6a1a1-5c9a-4bea-b643-c0c168295c67" alt="Payment Panel" width="420">
+  <img src="https://github.com/EmircanKartal/Rezervatsiya--Java-Reservation-System/assets/88210656/219e7265-f617-42ec-b4df-c46799945250" alt="Customer Panel" width="550">
+  <img src="https://github.com/EmircanKartal/Rezervatsiya--Java-Reservation-System/assets/88210656/18c76f9d-3702-4e4c-9345-0754bccda66c" alt="Payment Panel" width="420">
 </div>
 
 
